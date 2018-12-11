@@ -1,6 +1,6 @@
 # GOLD PRICE ANALYSIS AND PREDICTION
 
-## DATASET:
+### DATASET:
 
 We have used 2 datasets for this. The first data set has been gotten from the “World
 Gold Council’s” website. This dataset is for the global gold prices from 1978 to 2018.
@@ -12,7 +12,7 @@ market data from ​ Gold Price India​ from 2011 - 2018 for every month.
 Since the data was scraped from the web, we verified it manually before using the same
 for analytics.
 
-## PREPROCESSING:
+### PREPROCESSING:
 
 We preprocess all the data by using basic techniques like dropping all the rows with
 missing values (there weren’t any!). The most preprocessing was done to the dates,
@@ -20,7 +20,7 @@ since the data was collected from different sources, the dates were in different
 and they were formatted to a common format which would be understood by
 matplotlib for plotting it appropriately.
 
-## CREATING A MODEL:
+### CREATING A MODEL:
 
 ● Multiple Regression
 
@@ -69,7 +69,7 @@ when there is seasonal data. I.e. the timeseries data has repeating cycles.We ob
 Below are the results and the diagnostics of the model.We see that the R square value is 73% which is acceptable and the RMS Error has
 reduced to 1715 from 5000, which is a good sign.
 
-## FINDING TRENDS:
+### FINDING TRENDS:
 
 We now use the other (Indian market dataset) for trying and finding any
 interesting trends in the price fluctuation.Interestingly for various years the prices of gold have been maximum during the
@@ -78,7 +78,7 @@ data. The maximum price has always been March-April or September-October which
 falls during or just before the wedding season.
 
 
-## OBSERVATIONS and CONCLUSION:
+### OBSERVATIONS and CONCLUSION:
 
 We now have a model which can predict the gold price with almost 73% accuracy and
 have found an interesting correlation between the market price of gold and the
