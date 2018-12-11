@@ -1,6 +1,6 @@
 pandas==0.20.3
 matplotlib==2.0.2
-requests==2.18.1
+requests==2.20.1
 numpy==1.13.3
 beautifulsoup4==4.6.3
 fix_yahoo_finance==0.0.22
