@@ -91,3 +91,8 @@ modelled so easily.
 For future work, we can use and build upon our existing model to build a
 recommendation system suggesting the users the right time to buy and sell gold for
 people who take interest in investing in gold.
+
+## Credits
+
+* [Nihali S Shetty](https://github.com/NihaliShetty)
+* [Mayank Thakur](https://github.com/IamMayankThakur)
