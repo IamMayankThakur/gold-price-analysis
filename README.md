@@ -73,7 +73,7 @@ reduced to 1715 from 5000, which is a good sign.
 
 We now use the other (Indian market dataset) for trying and finding any
 interesting trends in the price fluctuation.Interestingly for various years the prices of gold have been maximum during the
-wedding season corresponding to that year. Though there are no obvious trends in the
+wedding season corresponding to that year. We can also see a cyclic trend in the price, there is 6-8 years of bullish growth followed by 6-8 years of bearish market. Alhough other than that there are no obvious trends in the
 data. The maximum price has always been March-April or September-October which
 falls during or just before the wedding season.
 
